@@ -1,0 +1,1 @@
+This is a game made to learn about how to create a game from nothing to done (or as close i can get)
